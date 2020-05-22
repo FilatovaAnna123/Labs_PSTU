@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(84,48): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(86,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(107,115): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(155,22): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(155,42): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(155,66): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(155,85): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(350,37): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\lllint.h(363,18): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\MyForm.h(525,103): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\MyForm.h(694,21): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calcv2.vcxproj -> C:\Users\пк\Desktop\Новая папка\calcv2\Debug\calcv2.exe

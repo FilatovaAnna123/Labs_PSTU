@@ -1,0 +1,6 @@
+C:\Users\Николай\source\repos\calcv2\calcv2\Debug\calcv2.vcxprojAssemblyReference.cache
+C:\Users\Николай\source\repos\calcv2\calcv2\Debug\calcv2.MyForm.resources
+C:\Users\Николай\source\repos\calcv2\calcv2\Debug\calcv2.vcxproj.GenerateResource.cache
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\Debug\calcv2.vcxprojAssemblyReference.cache
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\Debug\calcv2.MyForm.resources
+C:\Users\пк\Desktop\Новая папка\calcv2\calcv2\Debug\calcv2.vcxproj.GenerateResource.cache
